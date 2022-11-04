@@ -1,0 +1,15 @@
+D:\CSharpEx\CelsiustoFahrenheit\bin\Debug\net6.0\CelsiustoFahrenheit.exe
+D:\CSharpEx\CelsiustoFahrenheit\bin\Debug\net6.0\CelsiustoFahrenheit.deps.json
+D:\CSharpEx\CelsiustoFahrenheit\bin\Debug\net6.0\CelsiustoFahrenheit.runtimeconfig.json
+D:\CSharpEx\CelsiustoFahrenheit\bin\Debug\net6.0\CelsiustoFahrenheit.dll
+D:\CSharpEx\CelsiustoFahrenheit\bin\Debug\net6.0\CelsiustoFahrenheit.pdb
+D:\CSharpEx\CelsiustoFahrenheit\obj\Debug\net6.0\CelsiustoFahrenheit.csproj.AssemblyReference.cache
+D:\CSharpEx\CelsiustoFahrenheit\obj\Debug\net6.0\CelsiustoFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpEx\CelsiustoFahrenheit\obj\Debug\net6.0\CelsiustoFahrenheit.AssemblyInfoInputs.cache
+D:\CSharpEx\CelsiustoFahrenheit\obj\Debug\net6.0\CelsiustoFahrenheit.AssemblyInfo.cs
+D:\CSharpEx\CelsiustoFahrenheit\obj\Debug\net6.0\CelsiustoFahrenheit.csproj.CoreCompileInputs.cache
+D:\CSharpEx\CelsiustoFahrenheit\obj\Debug\net6.0\CelsiustoFahrenheit.dll
+D:\CSharpEx\CelsiustoFahrenheit\obj\Debug\net6.0\refint\CelsiustoFahrenheit.dll
+D:\CSharpEx\CelsiustoFahrenheit\obj\Debug\net6.0\CelsiustoFahrenheit.pdb
+D:\CSharpEx\CelsiustoFahrenheit\obj\Debug\net6.0\CelsiustoFahrenheit.genruntimeconfig.cache
+D:\CSharpEx\CelsiustoFahrenheit\obj\Debug\net6.0\ref\CelsiustoFahrenheit.dll
