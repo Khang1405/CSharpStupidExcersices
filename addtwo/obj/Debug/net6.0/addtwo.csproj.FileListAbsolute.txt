@@ -1,0 +1,15 @@
+D:\CSharpEx\addtwo\bin\Debug\net6.0\addtwo.exe
+D:\CSharpEx\addtwo\bin\Debug\net6.0\addtwo.deps.json
+D:\CSharpEx\addtwo\bin\Debug\net6.0\addtwo.runtimeconfig.json
+D:\CSharpEx\addtwo\bin\Debug\net6.0\addtwo.dll
+D:\CSharpEx\addtwo\bin\Debug\net6.0\addtwo.pdb
+D:\CSharpEx\addtwo\obj\Debug\net6.0\addtwo.csproj.AssemblyReference.cache
+D:\CSharpEx\addtwo\obj\Debug\net6.0\addtwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpEx\addtwo\obj\Debug\net6.0\addtwo.AssemblyInfoInputs.cache
+D:\CSharpEx\addtwo\obj\Debug\net6.0\addtwo.AssemblyInfo.cs
+D:\CSharpEx\addtwo\obj\Debug\net6.0\addtwo.csproj.CoreCompileInputs.cache
+D:\CSharpEx\addtwo\obj\Debug\net6.0\addtwo.dll
+D:\CSharpEx\addtwo\obj\Debug\net6.0\refint\addtwo.dll
+D:\CSharpEx\addtwo\obj\Debug\net6.0\addtwo.pdb
+D:\CSharpEx\addtwo\obj\Debug\net6.0\addtwo.genruntimeconfig.cache
+D:\CSharpEx\addtwo\obj\Debug\net6.0\ref\addtwo.dll
