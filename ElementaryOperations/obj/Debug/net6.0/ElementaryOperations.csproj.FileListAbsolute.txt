@@ -1,0 +1,15 @@
+D:\CSharpEx\ElementaryOperations\bin\Debug\net6.0\ElementaryOperations.exe
+D:\CSharpEx\ElementaryOperations\bin\Debug\net6.0\ElementaryOperations.deps.json
+D:\CSharpEx\ElementaryOperations\bin\Debug\net6.0\ElementaryOperations.runtimeconfig.json
+D:\CSharpEx\ElementaryOperations\bin\Debug\net6.0\ElementaryOperations.dll
+D:\CSharpEx\ElementaryOperations\bin\Debug\net6.0\ElementaryOperations.pdb
+D:\CSharpEx\ElementaryOperations\obj\Debug\net6.0\ElementaryOperations.csproj.AssemblyReference.cache
+D:\CSharpEx\ElementaryOperations\obj\Debug\net6.0\ElementaryOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpEx\ElementaryOperations\obj\Debug\net6.0\ElementaryOperations.AssemblyInfoInputs.cache
+D:\CSharpEx\ElementaryOperations\obj\Debug\net6.0\ElementaryOperations.AssemblyInfo.cs
+D:\CSharpEx\ElementaryOperations\obj\Debug\net6.0\ElementaryOperations.csproj.CoreCompileInputs.cache
+D:\CSharpEx\ElementaryOperations\obj\Debug\net6.0\ElementaryOperations.dll
+D:\CSharpEx\ElementaryOperations\obj\Debug\net6.0\refint\ElementaryOperations.dll
+D:\CSharpEx\ElementaryOperations\obj\Debug\net6.0\ElementaryOperations.pdb
+D:\CSharpEx\ElementaryOperations\obj\Debug\net6.0\ElementaryOperations.genruntimeconfig.cache
+D:\CSharpEx\ElementaryOperations\obj\Debug\net6.0\ref\ElementaryOperations.dll
