@@ -1,0 +1,15 @@
+D:\CSharpEx\AllEX\bin\Debug\net6.0\AllEX.exe
+D:\CSharpEx\AllEX\bin\Debug\net6.0\AllEX.deps.json
+D:\CSharpEx\AllEX\bin\Debug\net6.0\AllEX.runtimeconfig.json
+D:\CSharpEx\AllEX\bin\Debug\net6.0\AllEX.dll
+D:\CSharpEx\AllEX\bin\Debug\net6.0\AllEX.pdb
+D:\CSharpEx\AllEX\obj\Debug\net6.0\AllEX.csproj.AssemblyReference.cache
+D:\CSharpEx\AllEX\obj\Debug\net6.0\AllEX.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpEx\AllEX\obj\Debug\net6.0\AllEX.AssemblyInfoInputs.cache
+D:\CSharpEx\AllEX\obj\Debug\net6.0\AllEX.AssemblyInfo.cs
+D:\CSharpEx\AllEX\obj\Debug\net6.0\AllEX.csproj.CoreCompileInputs.cache
+D:\CSharpEx\AllEX\obj\Debug\net6.0\AllEX.dll
+D:\CSharpEx\AllEX\obj\Debug\net6.0\refint\AllEX.dll
+D:\CSharpEx\AllEX\obj\Debug\net6.0\AllEX.pdb
+D:\CSharpEx\AllEX\obj\Debug\net6.0\AllEX.genruntimeconfig.cache
+D:\CSharpEx\AllEX\obj\Debug\net6.0\ref\AllEX.dll
